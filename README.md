@@ -12,6 +12,7 @@ Hiện tại nhóm đang làm **bản cơ bản (v0)** để cả 3 cùng chạy
 | Trần Chí Kiên | HE200774 | Data Cleaning |
 | Quách Xuân Thành | HE204852 | EDA |
 
+```text
 ## Sơ đồ thư mục
 ADY201m-Group8-AI2107/
 │
@@ -37,6 +38,7 @@ ADY201m-Group8-AI2107/
 │   └── 05_EDA.ipynb
 |
 └── README.md
+```
 
 ## Giải thích cấu trúc dự án
 
