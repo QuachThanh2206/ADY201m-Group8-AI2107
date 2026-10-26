@@ -12,5 +12,4 @@ Hiện tại nhóm đang làm **bản cơ bản (v0)** để cả 3 cùng chạy
 | Trần Chí Kiên | HE200774 | Data Cleaning |
 | Quách Xuân Thành | HE204852 | EDA |
 
-### LƯU Ý
-olist_geolocation_dataset.csv quá nặng nên đã nén lại thành olist_geolocation_dataset.csv.gz
+
