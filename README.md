@@ -24,7 +24,7 @@ Dữ liệu gốc: [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https
 - Tương quan Pearson với phí: cân nặng 0,61 · thể tích 0,58 · giá 0,41 · khoảng cách 0,39.
 - Mô hình **Random Forest**: MAE ≈ **3,60 BRL**, R² ≈ **0,751** trên tập kiểm tra (80/20, `random_state = 42`); Linear Regression (so sánh): MAE ≈ 5,22 BRL.
 - Độ quan trọng đặc trưng (Random Forest): thể tích 0,348 · khoảng cách 0,310 · cân nặng 0,214 · giá 0,129.
-> Đây là quan hệ quan sát được trong dữ liệu lịch sử 2016–2018, **không khẳng định quan hệ nhân quả** và không thay thế biểu phí chính thức của đơn vị vận chuyển. Cách chia ngẫu nhiên theo dòng có thể làm điểm đánh giá lạc quan hơn.
+
  
 ## 3. Cấu trúc thư mục
  
